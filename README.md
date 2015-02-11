@@ -1,2 +1,2 @@
 # bootstrap-
-Simple, clean bootstrap template
+This template uses Bootstrap, BX Slider is a fully responsive, clean and valid.
