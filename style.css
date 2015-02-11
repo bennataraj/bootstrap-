@@ -1,0 +1,227 @@
+.mainHeader{
+`	overflow: inherit;
+	margin-bottom: 1%;
+	background: #ccc;
+}
+
+.headContainer
+{	
+	overflow: auto;
+	margin-bottom: 1%;
+	
+}
+
+.logoWrapper
+{
+	max-width: 1024px;
+}
+
+.logo
+{
+	padding: 1%;
+}
+.logo img
+{
+	width: 100%;
+}
+.topMenu ul li a
+{
+	color: #12967c;
+}
+
+.navMenu
+{
+	background: #12967c;
+}
+
+.navMenu ul li a
+{	
+	background: #12967c;
+	color: #fff;
+	border-radius: 0;
+	font-size: 105%;
+}
+.navMenu ul li a:hover
+{
+	background: #f2f2f2;
+	color: #12967c;
+	border-radius: 0;
+}
+.navContain 
+{
+	max-width: 1024px;
+
+}
+.infoemail a
+{
+	margin: 0;
+	padding: 0;
+	color: #12967c;
+}
+.mainBody
+{
+	max-width: 1024px;
+	box-shadow: 0 0 1px rgba(0,0,0,.5);
+	clear: both;
+}
+.topContent
+{
+	height: 300px;
+}
+
+.sliderContent
+{
+	
+	height: 95%;
+	margin: 1.5% 0;
+
+}
+.slideItem
+{	
+	height: 100%;
+}
+.textItems
+{
+	width: 50%;
+}
+.firstItem{
+	background: #ccc;
+	height: 100%;
+}
+.welcome
+{
+	margin: 1.5% 0;
+	height: 250px;
+	
+}
+.welcome p
+{
+	text-align: center;
+}
+.welcome h2
+{
+	text-align: center;
+	color: #12967c;
+	font-size: 23px;
+	
+}
+.insureBox
+{
+	
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding: 0 5%;	
+	box-shadow: 0px 1px 5px #ccc;
+	min-height: 180px;
+	margin-bottom: 2%;
+}
+.insureBox p
+{
+	display: inline;
+	position: absolute;
+	width: 50%;
+	
+}
+.insureBox img
+{
+	width: 75%;
+}
+.postLeft
+{
+	left: 5%;
+	top: 20%;
+}
+
+
+.postRight
+{
+	right: 5%;
+	bottom: 20%;
+	text-align: right;
+}
+
+.insureBox h3
+{
+	color: #12967c;
+	font-size: 21px;
+	text-shadow: 1px 1px 1px #999;
+}
+.bottomtitle
+{
+	position: absolute;
+	bottom: 1%;
+	right: 5%;
+
+
+}
+.toptitle
+{
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	margin: 1%;
+}
+
+.middleContent
+{
+	clear: both;
+	overflow: inherit;
+	margin: 1% 0;
+	padding: 0 0;
+}
+
+.contactOne p
+{
+	color: #12967c;
+	padding: 1px;
+	display: inline;
+	line-height: 50px;
+}
+.contactOne span
+{
+	font-size: 155%;
+	color: #12967c;
+}
+ul.whychoose
+{
+	padding-start: 15px;
+	-webkit-padding-start: 15px;
+	margin: auto;
+}
+
+ul.whychoose li 
+{
+	margin: 0;
+	padding: 0;
+	list-style-image: url(images/checkmark.png);
+	background-position: 50% 5%;
+	font-size: 12px;
+	line-height: 20px;
+	color: #444444;
+}
+.contactDetails
+{
+	width: 100%;
+	padding: 9px;
+	font-weight: bold;
+	margin: 0;
+	text-align: center;
+}
+
+.boxGradient 
+{
+	background-image: -moz-radial-gradient(#fff, #f8f8f8); /* Firefox */
+	background-image: -webkit-radial-gradient(#fff, #f8f8f8);  /* Webkit */
+	
+}
+.footerContain{
+	overflow: auto;
+	
+	max-width: 1024px;
+	box-shadow: 0 0 1px rgba(0,0,0,.5);
+	margin-top: 1%;
+	padding: 2%;
+}
+.footerContain p{
+text-align: center;
+}
